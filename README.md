@@ -4,6 +4,8 @@
 
 So, you want to use git, right? 
 
+He modificado en la rama 2
+
 But you don't just want to learn commands, you want to understand what you're using? 
 
 Then this is meant for you!
